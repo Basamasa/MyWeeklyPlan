@@ -1,0 +1,1 @@
+Combine the weekly plan table with calendar
